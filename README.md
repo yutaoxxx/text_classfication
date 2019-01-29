@@ -5,3 +5,6 @@
 
 ## 训练方法
 python main.py
+
+## TODO
+BERT,RCNN,CRNN,RNN-Attention
