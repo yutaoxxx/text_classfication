@@ -1,2 +1,3 @@
-# text_classfication
-different kinds of text classification
+# text_classification
+尝试使用实现各种各样不同的文本分类方法，基于pytorch实现
+数据集下载链接：https://pan.baidu.com/s/19EWZStVkwqxJANvgKk3O0g
